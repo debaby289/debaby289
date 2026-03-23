@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Devine 👋</h1>
+<h3 align="center">Aspiring developer building skills, projects, and momentum</h3>
 
-<!--
-**debaby289/debaby289** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### About Me
+- 🌱 Learning: **Python, GitHub, and software engineering**
+- 💡 Interested in: **building practical tools and creative projects**
+- 🎯 Working toward: **becoming a stronger, more confident developer**
+- 📚 Currently focused on: **improving coding fundamentals and project quality**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech I’m Using
+- Python
+- JavaScript
+- HTML
+- CSS
+- Git
+- GitHub
+- VS Code
+
+---
+
+### Featured Work
+
+-Coming soon
+
+---
+
+### GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=debaby289&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=debaby289&layout=compact&theme=tokyonight)
+
+---
+
+### Let's Connect
+- GitHub: https://github.com/debaby289
+- LinkedIn: https://www.linkedin.com/in/devinesims/
