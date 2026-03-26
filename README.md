@@ -35,5 +35,4 @@
 ---
 
 ### Let's Connect
-- GitHub: https://github.com/debaby289
 - LinkedIn: https://www.linkedin.com/in/devinesims/
